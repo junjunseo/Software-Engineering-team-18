@@ -23,13 +23,13 @@
 ### 브랜치 네이밍 규칙
 
 ```
-<이름>/<타입>/<작업내용>
+<이름>/<타입>
 ```
 
-- `junseo/docs/usecase-signup` — 회원가입 use case description 작성
-- `junseo/ui/login` — 로그인 UI 화면 추가
-- `junseo/diagram/admin` — 관리자 다이어그램 추가
-- `junseo/fix/extend-arrow` — extend 화살표 방향 수정
+- `junseo/docs` — 문서 작업
+- `junseo/ui` — UI 화면 작업
+- `junseo/diagram` — Use Case Diagram 작업
+- `junseo/fix` — 오류 수정
 
 > 같은 작업을 여러 명이 진행해 비교해야 하는 경우 이름이 앞에 들어가 있어 충돌 없이 병렬 작업이 가능합니다.
 
